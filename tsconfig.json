@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "esnext",  // Or es2020, es2022
+    "module": "esnext",  // Required for using import.meta
+    "resolveJsonModule": true,
+    "esModuleInterop": true, // Helps with importing CommonJS modules
+    "moduleResolution": "node", // Better for module resolution
+    "strict": true, // Optional but recommended for stricter type checks
+    "skipLibCheck": true // Optional: skip checking .d.ts files for performance
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
