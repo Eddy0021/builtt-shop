@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "name": "Kokosov mast",
+    "price": 200,
+    "weight": 100,
+    "unit": "g",
+    "image": "kokosov-mast.png",
+    "sale": 10,
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Naturela sa Rogačem i Agava Šećerom",
+    "price": 600,
+    "weight": 750,
+    "unit": "g",
+    "image": "naturela-sa-rogacem-i-agava-secerom.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Kokosovo ulje",
+    "price": 850,
+    "weight": 1,
+    "unit": "kg",
+    "image": "kokosovo-ulje.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Suncokretov puter",
+    "price": 600,
+    "weight": 750,
+    "unit": "g",
+    "image": "suncokretov-puter.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Zejtin suncokretovo ulje",
+    "price": 600,
+    "weight": 1,
+    "unit": "l",
+    "image": "zejtin-suncokretovo-ulje.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Devičansko susamovo tamno ulje",
+    "price": 400,
+    "weight": 100,
+    "unit": "ml",
+    "image": "devicansko-susamovo-tamno-ulje.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Bar sa lešnikovim puterom",
+    "price": 400,
+    "weight": 30,
+    "unit": "g",
+    "image": "bar-sa-lesnikovim-puterom.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Bar sa šumskim voćem",
+    "price": 600,
+    "weight": 30,
+    "unit": "g",
+    "image": "bar-sa-sumskim-vocem.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Kokosov protein",
+    "price": 800,
+    "weight": 1,
+    "unit": "kg",
+    "image": "kokosov-protein.png",
+    "sale": 45,
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Kokosov mast",
+    "price": 100,
+    "weight": 750,
+    "unit": "g",
+    "image": "kokosov-mast.png",
+    "sale": 20,
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Naturela sa Rogačem i Agava Šećerom",
+    "price": 400,
+    "weight": 500,
+    "unit": "g",
+    "image": "naturela-sa-rogacem-i-agava-secerom.png",
+    "sale": 10,
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Kokosovo ulje",
+    "price": 600,
+    "weight": 750,
+    "unit": "g",
+    "image": "kokosovo-ulje.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 13,
+    "name": "Suncokretov puter",
+    "price": 900,
+    "weight": 1,
+    "unit": "kg",
+    "image": "suncokretov-puter.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 14,
+    "name": "Zejtin suncokretovo ulje",
+    "price": 600,
+    "weight": 750,
+    "unit": "ml",
+    "image": "zejtin-suncokretovo-ulje.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 15,
+    "name": "Devičansko susamovo tamno ulje",
+    "price": 600,
+    "weight": 250,
+    "unit": "ml",
+    "image": "devicansko-susamovo-tamno-ulje.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 16,
+    "name": "Bar sa lešnikovim puterom",
+    "price": 600,
+    "weight": 60,
+    "unit": "g",
+    "image": "bar-sa-lesnikovim-puterom.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 17,
+    "name": "Bar sa šumskim voćem",
+    "price": 800,
+    "weight": 60,
+    "unit": "g",
+    "image": "bar-sa-sumskim-vocem.png",
+    "sale": 5,
+    "count": 0
+  },
+  {
+    "id": 18,
+    "name": "Kokosov protein",
+    "price": 600,
+    "weight": 750,
+    "unit": "g",
+    "image": "kokosov-protein.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 19,
+    "name": "Kokosov mast",
+    "price": 600,
+    "weight": 400,
+    "unit": "g",
+    "image": "kokosov-mast.png",
+    "sale": 0,
+    "count": 0
+  },
+  {
+    "id": 20,
+    "name": "Naturela sa Rogačem i Agava Šećerom",
+    "price": 800,
+    "weight": 1,
+    "unit": "kg",
+    "image": "naturela-sa-rogacem-i-agava-secerom.png",
+    "sale": 0,
+    "count": 0
+  }
+]
+  
